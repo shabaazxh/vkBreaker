@@ -38,7 +38,7 @@
 #include "Descriptors.h"
 #include "AABB.h"
 
-//Define shader location
+// Define shader location (Will need to update these the system path)
 const std::string WIN_OS_SHADER_LOC_VERT = "shaders/vert.spv";
 const std::string WIN_OS_SHADER_LOC_FRAG = "shaders/frag.spv";
 
@@ -48,7 +48,6 @@ const std::string WIN_OS_SHADER_LOC_FRAG_ENEMY = "shaders/Enemy_frag.spv";
 const std::string WIN_OS_SHADER_LOC_VERT_STATIC = "shaders/static_vert.spv";
 const std::string WIN_OS_SHADER_LOC_FRAG_STATIC = "shaders/static_frag.spv";
 
-//next thing to do -- VERTEX BUFFERS -- Staging buffer == 
 const std::vector<const char*> deviceExtensions = {
 	VK_KHR_SWAPCHAIN_EXTENSION_NAME
 };
