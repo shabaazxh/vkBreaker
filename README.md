@@ -1,8 +1,6 @@
 # vkBreaker
 
-Breaker is a 2D game I am currently working on using the **Vulkan** API. 
-
-This branch will continue to see updates as the development of the game continues.
+Breaker is a simple 2D game created to learn Vulkan. 
 
 **Preview**
 
